@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "schema": "http://schema.org/",
+    "ex": "http://example.com/ontology#",
+    "name": "schema:name",
+    "description": "schema:description",
+    "dateCreated": "schema:dateCreated",
+    "author": "schema:author",
+    "department": "ex:department",
+    "location": "schema:location",
+    "status": "ex:status",
+    "priority": "ex:priority",
+    "assignedTo": "ex:assignedTo",
+    "dueDate": "schema:endDate",
+    "tags": "ex:tags",
+    "relatedProjects": "ex:relatedProjects"
+  }
+}
