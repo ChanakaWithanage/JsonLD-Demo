@@ -1,0 +1,6 @@
+id,name,description,dateCreated,author,department,location,status,priority,assignedTo,dueDate,tags,relatedProjects
+1,Website Redesign,Complete overhaul of company website,2024-01-15,John Smith,IT,New York,In Progress,High,Sarah Jones,2024-06-30,web design;ui/ux,3;5
+2,Data Migration,Migrate legacy database to new system,2024-02-01,Sarah Jones,IT,Chicago,Planning,Medium,Mike Wilson,2024-08-15,database;migration,4
+3,Mobile App Development,Create new customer mobile application,2024-01-10,Mike Wilson,Development,San Francisco,Active,High,John Smith,2024-07-31,mobile;ios;android,1
+4,Cloud Infrastructure,Setup new cloud infrastructure,2024-02-15,Lisa Brown,Operations,Boston,Not Started,Low,Tom Davis,2024-09-30,cloud;aws,2
+5,Security Audit,Annual security assessment,2024-03-01,Tom Davis,Security,Washington DC,Planning,High,Lisa Brown,2024-05-31,security;compliance,1;2
